@@ -1,0 +1,168 @@
+---
+layout: page
+title: HappyShield
+tagline: Escudo Curvo de Plieges Origami para el Control de Infecciones
+permalink: /es/
+language: es
+---
+
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed//NzHtaLhImxM' frameborder='0' allowfullscreen></iframe></div>
+
+---
+
+![HappyShieldGif](./assets/0_MD_Instruction Files/HS_Cover GIF/HS_GIF_01.gif)
+
+
+# ¿Qué? 
+
+---
+
+HappyShield es un nuevo diseño ** de código abierto ** para un ** protector facial simple y plegable ** para el control de infecciones en el contexto de la pandemia de Covid-19.
+
+---
+
+# ¿Por qué?
+
+---
+
+Los trabajadores de la salud necesitan protectores faciales además de máscaras y gafas para brindar protección contra salpicaduras de fluidos corporales infectados de pacientes con Covid-19 durante una serie de procedimientos y situaciones médicas de alto riesgo. Actualmente existe una ** escasez significativa de protectores faciales a nivel mundial **, que es probable que sea ** particularmente grave en las regiones menos ricas ** sin la capacidad de comprar o fabricar el equipo de protección personal (EPP) necesario tan fácil o rápidamente como los ricos países.
+
+---
+
+# ¿Cómo? 
+
+---
+
+El objetivo de este proyecto es desarrollar, difundir y fabricar en masa un conjunto de diseños para protectores faciales que sean ** seguros **, ** baratos **, ** fáciles de producir en masa ** rápidamente, utilizando ** materiales , el equipo y la mano de obra disponibles en las regiones de ingresos bajos y medianos ** son ** fáciles de reutilizar ** y ** son lo suficientemente cómodos como para que los trabajadores de la salud los usen durante períodos prolongados sin provocar dolor ni molestias. La primera fase de este proyecto, el desarrollo de un diseño prototipo, ha producido ** HappyShield **, que cumple con éxito estos objetivos de diseño. Las características del diseño HappyShield se enumeran a continuación:
+---
+
+## Caracteristicas
+
+---
+
+* Diseño impermeable de fluido de una sola hoja con ** protección superior adicional contra fluidos y aerosoles **.  
+
+---
+
+* Descontaminación fácil ** para su reutilización ** durante un gran número de turnos.
+
+---
+
+* Forma ajustada y ajustable que permite ** un uso cómodo durante períodos prolongados **.
+
+---
+
+* ** Enfoques de fabricación en masa rápidos, flexibles y escalables ** para ayudar a satisfacer la demanda global a pesar de las interrupciones de la cadena de suministro. 
+
+---
+---
+
+## Galería
+
+---
+
+<script src="https://snapwidget.com/js/snapwidget.js"></script>
+<iframe src="https://snapwidget.com/embed/810063" class="snapwidget-widget" allowtransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden;  width:100%; "></iframe>
+
+---
+---
+
+# ¿Cómo puedo ayudar? 
+
+---
+
+Hemos ** comenzado la producción de HappyShields en el Reino Unido **, y esperamos ** expandir rápidamente ** nuestra capacidad de producción y distribución aquí. Sin embargo, sobre todo, actualmente estamos ** buscando asociaciones y colaboraciones ** que puedan ayudarnos a difundir el diseño de HappyShield y los métodos de producción relacionados a ** países menos ricos ** e iniciar la producción en masa de protectores faciales allí tan rápido como sea posible.
+
+---
+
+### _Así es como puedes ayudar:_
+
+---
+
+## 1. 🏭 Fabricantes y creadores
+
+¿Tiene ** acceso a una cortadora láser, una prensa hidráulica montada en banco, maquinaria de troquelado **, o tiene conexiones con una institución o empresa que lo hace? [Nos encantaría estar conectados] (mailto: natmat@aha.cam.ac.uk? Asunto = Consulta de HappyShield: Fabricación) para que podamos ayudarlo a ** comenzar a fabricar en masa HappyShields localmente ** lo más rápido posible.
+
+¿Eres un ** fabricante / entusiasta del DIY **? Hemos desarrollado y documentado una pequeña cantidad de vías de fabricación diversas (que se muestran a continuación) para HappyShield, pero debido a la simplicidad del diseño, anticipamos que hay muchas formas efectivas de producirlas utilizando materiales, equipos y mano de obra disponibles localmente. Necesitamos su ayuda para ** desarrollar y documentar estos nuevos métodos ** para que los fabricantes y fabricantes de todo el mundo puedan ampliar la producción utilizando materiales y equipos que ya tienen. Toda nuestra [documentación] (https://github.com/HappyShield/happyshield.github.io) y [archivos de plantilla] (https://github.com/HappyShield/HappyShield) están disponibles en código abierto en GitHub. ¡Se alientan las solicitudes de extracción!
+
+---
+
+| Método de Producción                  | Web                                                                                                                    | Print | Video | Templates |
+|---------------------------------------|------------------------------------------------------------------------------------------------------------------------|-------|-------|-----------|
+| Pliegues Manuales                     | [<i class="em em-iphone" aria-role="presentation" aria-label="MOBILE PHONE"></i>](../hand-creasing/{{page.language}}/)       |  [<i class="em em-page_facing_up" aria-role="presentation" aria-label="PAGE FACING UP"></i>](./Instructions/HandCreasing/Assets/Output/InstructionsPDF/Instructions.pdf)  |    [<i class="em em-video_camera" aria-role="presentation" aria-label="VIDEO CAMERA"></i>](https://youtu.be/8RvlrtrebBE) |       [<i class="em em-triangular_ruler" aria-role="presentation" aria-label="TRIANGULAR RULER"></i>](https://github.com/HappyShield/HappyShield/tree/master/Templates/HandCreasing)    |
+| Corte láser + pliegues manuales       | [<i class="em em-iphone" aria-role="presentation" aria-label="MOBILE PHONE"></i>](../pressure-creasing/{{page.language}}/)   | [<i class="em em-page_facing_up" aria-role="presentation" aria-label="PAGE FACING UP"></i>](./Instructions/LaserCutAndPressureCreasing/Assets/Output/InstructionsPDF/Instructions.pdf) |   [<i class="em em-video_camera" aria-role="presentation" aria-label="VIDEO CAMERA"></i>](https://youtu.be/IPKiPi-Tne8)    |         [<i class="em em-triangular_ruler" aria-role="presentation" aria-label="TRIANGULAR RULER"></i>](https://github.com/HappyShield/HappyShield/tree/master/Templates/LaserCutAndPressureCreasing)  |
+| Corte láse                            | [<i class="em em-iphone" aria-role="presentation" aria-label="MOBILE PHONE"></i>](../laser-cut/{{page.language}}/)           |  [<i class="em em-page_facing_up" aria-role="presentation" aria-label="PAGE FACING UP"></i>](./Instructions/LaserCut/Assets/Output/InstructionsPDF/Instructions.pdf) |       |        [<i class="em em-triangular_ruler" aria-role="presentation" aria-label="TRIANGULAR RULER"></i>](https://github.com/HappyShield/HappyShield/tree/master/Templates/LaserCut)   |
+| Laminado                              |                                                                                                                        |       |   [<i class="em em-video_camera" aria-role="presentation" aria-label="VIDEO CAMERA"></i>](https://youtu.be/yBTCImOzLss)    |           |
+| WaveShield                            | [<i class="em em-iphone" aria-role="presentation" aria-label="MOBILE PHONE"></i>](../wave-shield/{{page.language}}/)     |   [<i class="em em-page_facing_up" aria-role="presentation" aria-label="PAGE FACING UP"></i>](./Instructions/WaveShield/Assets/Output/InstructionsPDF/Instructions.pdf)    |   [<i class="em em-video_camera" aria-role="presentation" aria-label="VIDEO CAMERA"></i>](https://youtu.be/9PSss8W73v0)    |         [<i class="em em-triangular_ruler" aria-role="presentation" aria-label="TRIANGULAR RULER"></i>](https://github.com/HappyShield/HappyShield/tree/master/Templates/Waveshield)  |
+
+---
+
+## 2. 🏥 Trabajadores de la salud
+
+---
+
+¿Es responsable de ** la adquisición de EPP para trabajadores de la salud ** y anticipa que necesitará protectores faciales (o conoce a alguien que cumpla con estos criterios)? [Nos encantaría conectarlo] (mailto: natmat@aha.cam.ac.uk? Subject = HappyShield Consulta: Healthcare) con fabricantes locales que pueden producir HappyShields para usted. Podemos enviarle un ** paquete de 5-10 HappyShields ** de inmediato para cualquier prueba y aprobación necesarias.
+
+---
+
+## 3. 🌐 Traductores
+
+---
+
+¿Te sientes cómodo escribiendo técnicamente en un idioma que no sea inglés? Necesitamos st ayuda ** para traducir nuestra página de inicio, instrucciones y subtítulos de video ** a tantos idiomas como sea posible, para que estos diseños y métodos de fabricación puedan llegar a la mayor cantidad de personas posible en todo el mundo, particularmente en las regiones menos ricas. ** Regístrese como traductor [aquí] (https://forms.gle/9vHc2FbVvhA7nnZM7) **. Si habla un idioma para el que actualmente necesitamos traductores, ¡nos comunicaremos con usted!
+
+---
+
+#### 🙏 **_¡Muchas gracias, esperamos con ansías conectar contigo!_**
+
+---
+---
+
+## Aviso legal
+
+---
+
+La Universidad de Cambridge (UC) y la Universidad de Queensland (UQ) no ofrecen garantías de ningún tipo, expresas o implícitas, sobre el diseño, las características, la durabilidad, el uso adecuado o el rendimiento del HappyShield, incluidas, entre otras, las garantías implícitas de comerciabilidad y aptitud para cualquier propósito particular. HappyShield está diseñado para minimizar la exposición a fluidos y aerosoles, pero UC y UQ no garantizan que HappyShield protegerá a los usuarios de la infección por COVID-19 o cualquier otra enfermedad infecciosa. Nada en este material constituye consejo médico, y los usuarios deben buscar su propio consejo médico sobre si HappyShield es adecuado para el uso que pretenden y si deben usarlo junto con otras estrategias médicas. En la mayor medida permitida por la ley, UC y UQ excluyen todas las garantías implícitas, garantías, términos y condiciones. UC y UQ no son responsables de ningún reclamo, demanda, daños o lesiones, incluidos, entre otros, daños a la propiedad, lesiones o enfermedades corporales, muerte, daños indirectos, especiales o consecuentes ("las Reclamaciones") que surjan del uso de HappyShield, y los usuarios de HappyShield liberan a UC y UQ y sus oficiales, empleados, contratistas y agentes de todas las Reclamaciones.
+
+--- 
+
+#### Créditos del Proyecto
+
+Universidad de Cambridge, Departmento de Arquitectura  
+Centre for Natural Material Innovation
+
+
+University of Queensland, Escuela de Ingeniería Civil 
+Folded Structures Lab  
+
+Wesam Al Asali  
+Tom Bashford  
+Aurimas Bukauskas  
+Mutsuko Grant  
+Joe Gattas  
+Ana Gatoo  
+Yelda Gin  
+Will Hawkins  
+Millie Hood  
+Aftab Jalia  
+Antiopi Koronaki  
+Jeff Lee  
+Ana Maia  
+Andy Conway Morris  
+Josh Newman  
+Daniel Ott  
+Michael Ramage  
+Darshil Shah  
+
+---
+
+<script src="https://kit.fontawesome.com/688367e949.js" crossorigin="anonymous"></script>
+<div class="socialMediaIconsFooter">
+        <a href = "https://twitter.com/happy_PPE">
+            <i class="fab fa-twitter" style="font-size:24px; color:black; display: inline-block;"></i> 
+        </a>
+        <a href ="https://www.instagram.com/happyppe/">
+            <i class="fab fa-instagram" style="font-size:24px; color:black; display: inline-block;"></i>
+        </a>  
+        <a href="mailto:natmat@aha.cam.ac.uk?Subject=HappyShield Inquiry">  natmat@aha.cam.ac.uk</a>
+</div>
